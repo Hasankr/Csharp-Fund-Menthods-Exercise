@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{EA1BD825-26AF-4F8C-AEC4-FCB3DA686BA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{EA1BD825-26AF-4F8C-AEC4-FCB3DA686BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{DDEBB091-B8BC-4BD5-BB9D-264FF8E36ED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{DDEBB091-B8BC-4BD5-BB9D-264FF8E36ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Characters in Range", "03. Characters in Range\03. Characters in Range.csproj", "{68F461CC-866C-44A6-9A8F-4ED95278D195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Characters in Range", "03. Characters in Range\03. Characters in Range.csproj", "{68F461CC-866C-44A6-9A8F-4ED95278D195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Validator", "04. Password Validator\04. Password Validator.csproj", "{A0B1CA95-3C64-4264-87E1-0524271CB4C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Password Validator", "04. Password Validator\04. Password Validator.csproj", "{A0B1CA95-3C64-4264-87E1-0524271CB4C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Add and Subtract", "05. Add and Subtract\05. Add and Subtract.csproj", "{1B054C97-1BED-41AA-A1FA-25EED6C395FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Add and Subtract", "05. Add and Subtract\05. Add and Subtract.csproj", "{1B054C97-1BED-41AA-A1FA-25EED6C395FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Middle Characters", "06. Middle Characters\06. Middle Characters.csproj", "{EC555348-12F7-4FD9-A3B2-60B6D2EFA6B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Middle Characters", "06. Middle Characters\06. Middle Characters.csproj", "{EC555348-12F7-4FD9-A3B2-60B6D2EFA6B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. NxN Matrix", "07. NxN Matrix\07. NxN Matrix.csproj", "{413A8393-C054-4E29-913A-7BD28D52BE8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. NxN Matrix", "07. NxN Matrix\07. NxN Matrix.csproj", "{413A8393-C054-4E29-913A-7BD28D52BE8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Factorial Division", "08. Factorial Division\08. Factorial Division.csproj", "{629F4CCA-B04F-4405-BFA9-226D3A32C30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Factorial Division", "08. Factorial Division\08. Factorial Division.csproj", "{629F4CCA-B04F-4405-BFA9-226D3A32C30E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrome Integers", "09. Palindrome Integers\09. Palindrome Integers.csproj", "{9B4EDEC0-2AE3-49E7-8187-EA16DF7E15FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Palindrome Integers", "09. Palindrome Integers\09. Palindrome Integers.csproj", "{9B4EDEC0-2AE3-49E7-8187-EA16DF7E15FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array Manipulator", "11. Array Manipulator\11. Array Manipulator.csproj", "{AA877DF9-BF75-4393-BCDC-87CABFBF4F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Array Manipulator", "11. Array Manipulator\11. Array Manipulator.csproj", "{AA877DF9-BF75-4393-BCDC-87CABFBF4F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Number", "10. Top Number\10. Top Number.csproj", "{C2FC3DC8-DA8A-4473-AC5B-1E70A8446962}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{AA877DF9-BF75-4393-BCDC-87CABFBF4F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA877DF9-BF75-4393-BCDC-87CABFBF4F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA877DF9-BF75-4393-BCDC-87CABFBF4F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FC3DC8-DA8A-4473-AC5B-1E70A8446962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FC3DC8-DA8A-4473-AC5B-1E70A8446962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FC3DC8-DA8A-4473-AC5B-1E70A8446962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FC3DC8-DA8A-4473-AC5B-1E70A8446962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
